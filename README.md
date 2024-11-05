@@ -15,7 +15,8 @@
 Ensure 'g++' installed by running:
 'g++ --version'
 
-## Installation
+Installation:
+
 '''
 git clone https://github.com/your-username/assignment-3.git
 cd assignment-3
