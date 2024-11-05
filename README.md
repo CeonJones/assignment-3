@@ -18,15 +18,12 @@ Ensure 'g++' installed by running:
 ## Installation
 
 - **Clone Repo**:
-'''
-git clone https://github.com/your-username/assignment-3.git
-'''
+
+'git clone https://github.com/your-username/assignment-3.git'
 
 - **Compile and Run**
-'''
-g++ -std=c++17 main.cpp -o assignment-3
-./assignment-3
-'''
+'g++ -std=c++17 main.cpp -o assignment-3'
+'./assignment-3'
 
 ## Example Output
 ![Screenshot 2024-11-05 at 12 37 43 PM](https://github.com/user-attachments/assets/9c885102-e03d-472a-ac82-1309e297c6f6)
