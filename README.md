@@ -17,13 +17,13 @@ Ensure 'g++' installed by running:
 
 ## Installation:
 
-'git clone https://github.com/your-username/assignment-3.git'
+- **git clone https://github.com/your-username/assignment-3.git**
 
-'cd assignment-3'
+- **cd assignment-3**
 
-'g++ -std=c++17 main.cpp -o assignment-3'
+- **g++ -std=c++17 main.cpp -o assignment-3**
 
-'./assignment-3'
+- **./assignment-3**
 
 
 ## Example Output
