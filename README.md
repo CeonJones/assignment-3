@@ -13,7 +13,6 @@
 - **Developement Environment**: Any compatible IDE
 
 Ensure 'g++' installed by running:
-'''bash
-g++ --version
+'g++ --version'
 
 ##Installation
